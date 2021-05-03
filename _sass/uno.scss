@@ -1578,8 +1578,6 @@ input[type="tel"] {
 		margin-top: 5px;
 		margin-left: 0; } }
 @media all and (max-width: 960px) {
-	.btn-mobile-menu {
-		display: block; }
 
 	.panel-main {
 		display: table;
@@ -1624,7 +1622,7 @@ input[type="tel"] {
 				margin: 1em auto; }
 
 	.navigation-wrapper {
-		display: none;
+		display: block;
 		position: fixed;
 		top: 42px;
 		right: 0;
