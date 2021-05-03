@@ -1621,37 +1621,6 @@ input[type="tel"] {
 				display: none;
 				margin: 1em auto; }
 
-	.navigation-wrapper {
-		display: block;
-		position: fixed;
-		top: 42px;
-		right: 0;
-		left: 0;
-		width: 100%;
-		padding: 20px 0;
-		background: rgba(51, 51, 51, 0.98);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.15); }
-		.navigation-wrapper.visible {
-			display: block; }
-
-	.cover-navigation {
-		display: block;
-		position: relative;
-		float: left;
-		clear: left;
-		width: 100%; }
-		.cover-navigation .navigation {
-			display: block;
-			width: 100%; }
-			.cover-navigation .navigation li {
-				width: 80%;
-				margin-bottom: .4em; }
-		.cover-navigation.navigation--social {
-			padding-top: 5px; }
-			.cover-navigation.navigation--social .navigation li {
-				display: inline-block;
-				width: 25.8%; }
-
 	.content-wrapper {
 		width: 80%;
 		max-width: none;
@@ -1674,7 +1643,3 @@ input[type="tel"] {
 
 	.panel-subtitle {
 		font-size: .9em; }
-
-	.btn, .navigation__item a {
-		display: block;
-		margin-bottom: .4em; } }
