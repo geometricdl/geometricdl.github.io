@@ -21,7 +21,7 @@ As part of the [African Master's in Machine Intelligence](https://aimsammi.org/)
 * **Lecture 11**: _Sequences & Time Warping_ \| Petar Veličković \| [Recording](https://youtu.be/1MvBn77-VDk) \| [Slides](bit.ly/3xBpUOd)
 * **Lecture 12**: _Conclusions_ \| Michael M. Bronstein \| [Recording](https://youtu.be/caQV-Vb9TBw) \| [Slides](bit.ly/3yzfMqC)
 
-* **Tutorial 1**: _Graph Neural Networks_ \| Pim de Haan, Nikola Jovanović \| [Recording](https://www.youtube.com/watch?v=d5UZB5fi57k) | [Colab](https://colab.research.google.com/drive/1aA--IgJSdPh7J_MIJgs2r0D0VCbGpNTp#scrollTo=UyaI3YcyJlaU)
+* **Tutorial 1**: _Graph Neural Networks_ \| Pim de Haan, Nikola Jovanović \| [Recording](https://www.youtube.com/watch?v=d5UZB5fi57k) \| [Colab](https://colab.research.google.com/drive/1aA--IgJSdPh7J_MIJgs2r0D0VCbGpNTp#scrollTo=UyaI3YcyJlaU)
 * **Tutorial 2**: _Group Equivariant Neural Networks_ \| Gabriele Cesa \| [Recording](https://youtu.be/iFfBYPAqkH8) \| [Colab](https://colab.research.google.com/drive/1DfUuk-NZtW5d0toMnL752dYEMSVuNWgM?usp=sharing)
 
 * **Seminar 1**: _Geometric Deep Learning and Reinforcement Learning_ \| Elise van der Pol \| [Recording](https://youtu.be/03MbWVlbefM) \| [Slides](https://www.dropbox.com/s/akd7lam38wf61rd/AMMI%20Seminar%201%20-%20Geometric%20Deep%20Learning%20and%20Reinforcement%20Learning.pdf?dl=0)
