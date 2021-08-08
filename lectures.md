@@ -8,18 +8,18 @@ As part of the [African Master's in Machine Intelligence](https://aimsammi.org/)
 
 [**All lecture recordings**](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 
-| **Lecture 1**: _Introduction_ | Michael M. Bronstein | [Recording](https://youtu.be/PtA0lg_e5nA) | [Slides](bit.ly/3iw6AO9) |
-| **Lecture 2**: _High-Dimensional Learning_ | Joan Bruna | [Recording](https://youtu.be/4RmpSvQ2LL0) | [Slides](bit.ly/3yB5A14) |
-| **Lecture 3**: _Geometric Priors I_ | Taco Cohen | [Recording](https://youtu.be/fWBrupgU4X8) | [Slides](bit.ly/3s1PACv) |
-| **Lecture 4**: _Geometric Priors II_ | Joan Bruna | [Recording](https://youtu.be/ERL17gbbSwo) | [Slides](bit.ly/37rWbgd) |
-| **Lecture 5**: _Graphs & Sets I_ | Petar Veličković | [Recording](https://youtu.be/E_Wweuk5iqA) | [Slides](bit.ly/2X75EHY) |
-| **Lecture 6**: _Graphs & Sets II_ | Petar Veličković | [Recording](https://youtu.be/i79ewWQiUX4) | [Slides](bit.ly/37pYssr) |
-| **Lecture 7**: _Grids_ | Joan Bruna | [Recording](https://youtu.be/O2-I0y8ACj4) | [Slides](bit.ly/3iu0Ggr) |
-| **Lecture 8**: _Groups_ | Taco Cohen | [Recording](https://youtu.be/kee16fXU8h0) | [Slides](bit.ly/3AjUyxu) |
-| **Lecture 9**: _Geodesics & Manifolds_ | Michael M. Bronstein | [Recording](https://youtu.be/WVTrWGiZF8E) | [Slides](bit.ly/3lFTobt) |
-| **Lecture 10**: _Gauges_ | Taco Cohen | [Recording](https://youtu.be/UrmvMDHOXow) | [Slides](bit.ly/2VFC63b) |
-| **Lecture 11**: _Sequences & Time Warping_ | Petar Veličković | [Recording](https://youtu.be/1MvBn77-VDk) | [Slides](bit.ly/3xBpUOd) |
-| **Lecture 12**: _Conclusions_ | Michael M. Bronstein | [Recording](https://youtu.be/caQV-Vb9TBw) | [Slides](bit.ly/3yzfMqC) |
+| **Lecture 1**: _Introduction_ | Michael M. Bronstein | [Recording](https://youtu.be/PtA0lg_e5nA) | [Slides](https://bit.ly/3iw6AO9) |
+| **Lecture 2**: _High-Dimensional Learning_ | Joan Bruna | [Recording](https://youtu.be/4RmpSvQ2LL0) | [Slides](https://bit.ly/3yB5A14) |
+| **Lecture 3**: _Geometric Priors I_ | Taco Cohen | [Recording](https://youtu.be/fWBrupgU4X8) | [Slides](https://bit.ly/3s1PACv) |
+| **Lecture 4**: _Geometric Priors II_ | Joan Bruna | [Recording](https://youtu.be/ERL17gbbSwo) | [Slides](https://bit.ly/37rWbgd) |
+| **Lecture 5**: _Graphs & Sets I_ | Petar Veličković | [Recording](https://youtu.be/E_Wweuk5iqA) | [Slides](https://bit.ly/2X75EHY) |
+| **Lecture 6**: _Graphs & Sets II_ | Petar Veličković | [Recording](https://youtu.be/i79ewWQiUX4) | [Slides](https://bit.ly/37pYssr) |
+| **Lecture 7**: _Grids_ | Joan Bruna | [Recording](https://youtu.be/O2-I0y8ACj4) | [Slides](https://bit.ly/3iu0Ggr) |
+| **Lecture 8**: _Groups_ | Taco Cohen | [Recording](https://youtu.be/kee16fXU8h0) | [Slides](https://bit.ly/3AjUyxu) |
+| **Lecture 9**: _Geodesics & Manifolds_ | Michael M. Bronstein | [Recording](https://youtu.be/WVTrWGiZF8E) | [Slides](https://bit.ly/3lFTobt) |
+| **Lecture 10**: _Gauges_ | Taco Cohen | [Recording](https://youtu.be/UrmvMDHOXow) | [Slides](https://bit.ly/2VFC63b) |
+| **Lecture 11**: _Sequences & Time Warping_ | Petar Veličković | [Recording](https://youtu.be/1MvBn77-VDk) | [Slides](https://bit.ly/3xBpUOd) |
+| **Lecture 12**: _Conclusions_ | Michael M. Bronstein | [Recording](https://youtu.be/caQV-Vb9TBw) | [Slides](https://bit.ly/3yzfMqC) |
 
 | **Tutorial 1**: _Graph Neural Networks_ | Pim de Haan, Nikola Jovanović | [Recording](https://www.youtube.com/watch?v=d5UZB5fi57k) | [Colab](https://colab.research.google.com/drive/1aA--IgJSdPh7J_MIJgs2r0D0VCbGpNTp) |
 | **Tutorial 2**: _Group Equivariant Neural Networks_ | Gabriele Cesa | [Recording](https://youtu.be/iFfBYPAqkH8) | [Colab](https://colab.research.google.com/drive/1DfUuk-NZtW5d0toMnL752dYEMSVuNWgM?usp=sharing) |
