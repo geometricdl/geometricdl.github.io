@@ -18,12 +18,12 @@ As part of the [African Master's in Machine Intelligence](https://aimsammi.org/)
 | **Lecture 8**: _Groups_ | Taco Cohen | Recording | Slides |
 | **Lecture 9**: _Geodesics & Manifolds_ | Michael M. Bronstein | [Recording](https://youtu.be/YCncgm38-bA) | [Slides](https://www.dropbox.com/s/8pc7b53z0w2ui15/AIMS%202022%20-%20Lecture%209%20-%20Manifolds%2C%20meshes%2C%20and%20geometric%20graphs.pdf?dl=0) |
 | **Lecture 10**: _Gauges_ | Taco Cohen | Recording | Slides |
-| **Lecture 11**: _Beyond Groups_ | Petar Veličković | [Recording](https://youtu.be/LewIYn0UTEU) | Slides |
+| **Lecture 11**: _Beyond Groups_ | Petar Veličković | [Recording](https://youtu.be/LewIYn0UTEU) | [Slides](https://www.dropbox.com/s/4nt0fqrrhw2yb63/AIMS%202022%20-%20Lecture%2011%20-%20Beyond%20Groups.pdf?dl=0) |
 | **Lecture 12**: _Conclusions_ | Michael M. Bronstein | [Recording](https://youtu.be/Icwz214_7eI) | [Slides](https://www.dropbox.com/s/9zcrcohird72ulv/AIMS%202022%20-%20Lecture%2012%20-%20Conclusions%2C%20Applications%20%26%20Trends.pdf?dl=0) |
 
-| **Tutorial 1**: _Introduction to (Expressive) GNNs_ | Cristian Bodnar, Iulia Duță, Paul Scherer | [Colab]() |
-| **Tutorial 2**: _Group Equivariant Neural Networks_ | Gabriele Cesa | [Colab]() |
-| **Tutorial 3**: _Geometric GNNs_ | Charlie Harris, Chaitanya Joshi, Ramon Viñas | [Colab]() |
+| **Tutorial 1**: _Introduction to (Expressive) GNNs_ | Cristian Bodnar, Iulia Duță, Paul Scherer | [Colab](https://colab.research.google.com/drive/1Z0D10BFMdbsTM7lwPYrrJCe7z4yD48EE) |
+| **Tutorial 2**: _Group Equivariant Neural Networks_ | Gabriele Cesa | [Colab](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm) |
+| **Tutorial 3**: _Geometric GNNs_ | Charlie Harris, Chaitanya Joshi, Ramon Viñas | [Colab](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR) |
 
 | **Seminar 1**: _Graph neural networks through the lens of multi-particle dynamics and gradient flows_ | Francesco Di Giovanni | [Recording](https://youtu.be/03MbWVlbefM) | [Slides](https://www.dropbox.com/s/ecowz78xphdhtw0/AIMS%202022%20-%20Seminar%201%20-%20Physics-based%20GNNs.pdf?dl=0) |
 | **Seminar 2**: _Subgraphs for more expressive GNNs_ | Fabrizio Frasca | [Recording](https://youtu.be/2odKzu5fwVI) | Slides (_coming soon_!) |
