@@ -25,7 +25,7 @@ As part of the [African Master's in Machine Intelligence](https://aimsammi.org/)
 | **Tutorial 2**: _Group Equivariant Neural Networks_ | Gabriele Cesa | [Colab](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm) |
 | **Tutorial 3**: _Geometric GNNs_ | Charlie Harris, Chaitanya Joshi, Ramon Viñas | [Colab](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR) |
 
-| **Seminar 1**: _Graph neural networks through the lens of multi-particle dynamics and gradient flows_ | Francesco Di Giovanni | [Recording](https://youtu.be/03MbWVlbefM) | [Slides](https://www.dropbox.com/s/ecowz78xphdhtw0/AIMS%202022%20-%20Seminar%201%20-%20Physics-based%20GNNs.pdf?dl=0) |
+| **Seminar 1**: _Graph neural networks through the lens of multi-particle dynamics and gradient flows_ | Francesco Di Giovanni | [Recording](https://youtu.be/pG_akmY02Bo) | [Slides](https://www.dropbox.com/s/ecowz78xphdhtw0/AIMS%202022%20-%20Seminar%201%20-%20Physics-based%20GNNs.pdf?dl=0) |
 | **Seminar 2**: _Subgraphs for more expressive GNNs_ | Fabrizio Frasca | [Recording](https://youtu.be/PxJ5o4y4FUA) | [Slides](https://www.dropbox.com/s/tnuhppf1fqmv6y9/AIMS%202022%20-%20Seminar%202%20-%20Subgraph%20GNNs.pdf?dl=0) |
 | **Seminar 3**: _Equivariance in Machine Learning_ | Geordie Williamson | [Recording](https://youtu.be/XPVrVeRmMY0) | Slides (_coming soon_!) |
 | **Seminar 4**: _Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs_ | Cristian Bodnar | [Recording](https://youtu.be/TgPMuvH5j1I) | [Slides](https://www.dropbox.com/s/7hyqlwh45bdkv0f/AIMS%202022%20-%20Seminar%204%20-%20Neural%20sheaf%20diffusion.pdf?dl=0) |
