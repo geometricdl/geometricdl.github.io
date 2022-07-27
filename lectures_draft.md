@@ -4,7 +4,9 @@ title: GDL Course (Draft 2022)
 permalink: /lectures_draft/
 ---
 
-As part of the [African Master's in Machine Intelligence](https://aimsammi.org/) (AMMI 2022), we have delivered a course on Geometric Deep Learing (**GDL100**), which closely follows the contents of our [GDL proto-book](https://arxiv.org/abs/2104.13478). We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
+As part of the [African Master's in Machine Intelligence](https://aimsammi.org/) (AMMI), we have delivered a course on Geometric Deep Learing (**GDL100**), which closely follows the contents of our [GDL proto-book](https://arxiv.org/abs/2104.13478). We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
+
+
 
 [**All lecture recordings**](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
@@ -14,7 +16,7 @@ As part of the [African Master's in Machine Intelligence](https://aimsammi.org/)
 | **Lecture 4**: _Geometric Priors II_ | Joan Bruna | [Recording](https://youtu.be/DpnA8NNUtyU) | [Slides](https://www.dropbox.com/s/6ueh81pfvpp8vx0/AIMS%202022%20-%20Lecture%204%20-%20Geometric%20priors%20II.pdf?dl=0) |
 | **Lecture 5**: _Graphs & Sets I_ | Petar Veličković | [Recording](https://youtu.be/J2bLt3-SSpg) | [Slides](https://www.dropbox.com/s/fola7dmqtjfiwqr/AIMS%202022%20-%20Lecture%205%20-%20Graphs%20%26%20Sets%20I.pdf?dl=0) |
 | **Lecture 6**: _Graphs & Sets II_ | Petar Veličković | [Recording](https://youtu.be/HvQw7Zq1jtU) | [Slides](https://www.dropbox.com/s/itsbi113f7ogpbv/AIMS%202022%20-%20Lecture%206%20-%20Graphs%20%26%20Sets%20II.pdf?dl=0) |
-| **Lecture 7**: _Grids_ | Joan Bruna | [Recording](https://youtu.be/Mj7UoabhWYQ) | Slides |
+| **Lecture 7**: _Grids_ | Joan Bruna | [Recording](https://youtu.be/Mj7UoabhWYQ) | [Slides](https://www.dropbox.com/home/AMMI%202022/handouts?preview=AIMS+2022+-+Lecture+7+-+Grids.pdf) |
 | **Lecture 8**: _Groups_ | Taco Cohen | [Recording](https://youtu.be/SGiQ3pm06nI) | [Slides](https://www.dropbox.com/s/869fn3uuwt8whdo/AIMS%202022%20-%20Lecture%208%20-%20Groups.pdf?dl=0) |
 | **Lecture 9**: _Geodesics & Manifolds_ | Michael M. Bronstein | [Recording](https://youtu.be/YCncgm38-bA) | [Slides](https://www.dropbox.com/s/8pc7b53z0w2ui15/AIMS%202022%20-%20Lecture%209%20-%20Manifolds%2C%20meshes%2C%20and%20geometric%20graphs.pdf?dl=0) |
 | **Lecture 10**: _Gauges_ | Taco Cohen | [Recording](https://youtu.be/vu8-uSB6BAA) | [Slides](https://www.dropbox.com/s/fj4q3gv17xqpv0r/AIMS%202022%20-%20Lecture%2010%20-%20Gauges.pdf?dl=0) |
