@@ -29,6 +29,6 @@ This course was also delivered, with all materials available, in [2021](/lecture
 
 | **Seminar 1**: _Graph neural networks through the lens of multi-particle dynamics and gradient flows_ | Francesco Di Giovanni | [Recording](https://youtu.be/pG_akmY02Bo) | [Slides](https://www.dropbox.com/s/ecowz78xphdhtw0/AIMS%202022%20-%20Seminar%201%20-%20Physics-based%20GNNs.pdf?dl=0) |
 | **Seminar 2**: _Subgraphs for more expressive GNNs_ | Fabrizio Frasca | [Recording](https://youtu.be/PxJ5o4y4FUA) | [Slides](https://www.dropbox.com/s/tnuhppf1fqmv6y9/AIMS%202022%20-%20Seminar%202%20-%20Subgraph%20GNNs.pdf?dl=0) |
-| **Seminar 3**: _Equivariance in Machine Learning_ | Geordie Williamson | [Recording](https://youtu.be/XPVrVeRmMY0) | Slides (_coming soon_!) |
+| **Seminar 3**: _Equivariance in Machine Learning_ | Geordie Williamson | [Recording](https://youtu.be/XPVrVeRmMY0) | [Slides](https://www.dropbox.com/s/bkshxj8wwco0a84/AIMS%202022%20-%20Seminar%203%20-%20Equivariance%20in%20ML.pdf?dl=0) |
 | **Seminar 4**: _Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs_ | Cristian Bodnar | [Recording](https://youtu.be/TgPMuvH5j1I) | [Slides](https://www.dropbox.com/s/7hyqlwh45bdkv0f/AIMS%202022%20-%20Seminar%204%20-%20Neural%20sheaf%20diffusion.pdf?dl=0) |
 | **Seminar 5**: _Highly accurate protein structure prediction with AlphaFold_ | Russ Bates | [Recording](https://youtu.be/1FluhB_ZgNI) | [Slides](https://www.dropbox.com/s/lgu6658b7kv2s9w/AIMS%202022%20-%20Seminar%205%20-%20AlphaFold.pdf?dl=0) |
