@@ -15,16 +15,16 @@ We are expecting a cadence of roughly 2--3 weeks per individual chapter release.
 In addition, we have leveraged the material from the GDL Textbook to support Master's level courses at both [Oxford](https://www.cs.ox.ac.uk/teaching/courses/2023-2024/geodl/timetable.html) and [Cambridge](https://www.cl.cam.ac.uk/teaching/2324/L65/).
 Wherever relevant, we will also use this page to share lecture slides corresponding to individual chapters.
 
-**Acknowledgments**
+[**Acknowledgement**](book/acknowledgement.html)
 
-**Preface**
+[**Preface**](book/preface.html)
 
-**Notation**
+[**Notation**](book/notation.html)
 
 ### Part I: Geometric Foundations of Deep Learning
 
 | _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
-| **Chapter 1**: _Introduction_ | Slides | N/A |
+| [**Chapter 1**: _Introduction_](book/introduction.html) | Slides | N/A |
 
 ### Part II: Learning on Geometric Domains: The 5 Gs
 
