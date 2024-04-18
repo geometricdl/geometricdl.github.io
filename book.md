@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geometric Deep Learning
+title: GDL Book
 permalink: /book/
 ---
 
@@ -8,7 +8,7 @@ permalink: /book/
 
 "I have discovered such wonderful things that I was **amazed**...out of nothing I have created a strange new universe."---János Bolyai, in a letter to his father
 
-The Geometric Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. 
+The Geometric Deep Learning textbook is a resource intended to help students and practitioners enter the field of geometric deep learning. 
 As we prepare for releasing our book with MIT Press, we will make individual draft chapters of the book available here. 
 We are expecting a cadence of roughly 2--3 weeks per individual chapter release. Once published here, the chapters will remain online, for free.
 
