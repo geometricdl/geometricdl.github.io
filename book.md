@@ -21,15 +21,15 @@ Wherever relevant, we will also use this page to share lecture slides correspond
 
 [**Notation**](book/notation.html)
 
-### Part I: Geometric Foundations of Deep Learning
+#### Part I: Geometric Foundations of Deep Learning
 
 | _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
-| [**Chapter 1**: _Introduction_](book/introduction.html) | Slides | N/A |
+| [**Chapter 1**: _Introduction_](book/introduction.html) | [Lectures 1--2 (_Introduction_)](slides/Oxford_1_2_Introduction.pdf) | N/A |
 
-### Part II: Learning on Geometric Domains: The 5 Gs
+#### Part II: Learning on Geometric Domains: The 5 Gs
 
 TBD.
 
-### Part III: Geometric Deep Learning at the Bleeding Edge
+#### Part III: Geometric Deep Learning at the Bleeding Edge
 
 TBD.
