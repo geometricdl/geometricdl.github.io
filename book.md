@@ -44,4 +44,4 @@ If you would like to cite any part of the book in your research, for the time be
 }
 ```
 
-If you notice any factual errors or typos, or have suggestions for exercises to add to the chapters, do not hesitate to contact the authors directly by e-mail at gdl-book@googlegroups.com. If your note leads to an updated version of these notes, we will credit you in the Acknowledgement.
+If you notice any factual errors or typos, or have suggestions for exercises to add to the chapters, do not hesitate to contact the authors directly by e-mail at gdl-book@googlegroups.com. If your note leads to an updated version of these chapters, we will credit you in the Acknowledgement.
