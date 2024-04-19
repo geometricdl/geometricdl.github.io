@@ -34,4 +34,14 @@ TBD.
 
 TBD.
 
+If you would like to cite any part of the book in your research, for the time being, please cite our [proto-book](https://arxiv.org/abs/2104.13478), using the following BibTeX entry:
+```
+@article{bronstein2021geometric,
+      title="{Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges}", 
+      author={Michael M. Bronstein and Joan Bruna and Taco Cohen and Petar Veličković},
+      year={2021},
+      journal={arXiv preprint arXiv:2104.13478},
+}
+```
+
 If you notice any factual errors or typos, or have suggestions for exercises to add to the chapters, do not hesitate to contact the authors directly by e-mail at gdl-book@googlegroups.com. If your note leads to an updated version of these notes, we will credit you in the Acknowledgement.
