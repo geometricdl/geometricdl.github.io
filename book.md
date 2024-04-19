@@ -24,7 +24,7 @@ Wherever relevant, we will also use this page to share lecture slides correspond
 #### **Part I:** _Geometric Foundations of Deep Learning_
 
 | _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
-| [**Chapter 1**: _Introduction_](book/introduction.html) | [Lectures 1--2 (_Introduction_)](slides/Oxford_1_2_Introduction.pdf) | N/A |
+| [**Chapter 1**: _Introduction_](book/introduction.html) | [Lectures 1--2 (_Introduction_)](slides/Oxford_1_2_Introduction.pdf) | [Lecture "0" (_Course Introduction_)](slides/Cambridge_0_Course_Introduction.pdf) |
 
 #### **Part II:** _Learning on Geometric Domains: The 5 Gs_
 
@@ -33,3 +33,5 @@ TBD.
 #### **Part III:** _Geometric Deep Learning at the Bleeding Edge_
 
 TBD.
+
+If you notice any factual errors or typos, or have suggestions for exercises to add to the chapters, do not hesitate to contact the authors directly by e-mail at gdl-book@googlegroups.com. If your note leads to an updated version of these notes, we will credit you in the Acknowledgement.
