@@ -34,7 +34,7 @@ TBD.
 
 TBD.
 
-This work is governed under a Creative Commons CC-BY-NC-ND license. Copyright in this Work has been licensed exclusively to The MIT Press, https://mitpress.mit.edu, which will be releasing the final version to the public in 2025. All inquiries regarding rights should be addressed to The MIT Press, Rights and Permissions Department.
+This work is governed under a Creative Commons CC-BY-NC-ND license. Copyright in this Work has been licensed exclusively to [The MIT Press](https://mitpress.mit.edu), which will be releasing the final version to the public in 2025. All inquiries regarding rights should be addressed to The MIT Press, Rights and Permissions Department.
 
 If you would like to cite any part of the book in your research, for the time being, please cite our [proto-book](https://arxiv.org/abs/2104.13478), using the following BibTeX entry:
 ```
