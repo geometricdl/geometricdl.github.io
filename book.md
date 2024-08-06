@@ -26,7 +26,7 @@ Wherever relevant, we will also use this page to share lecture slides correspond
 | _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
 | [**Chapter 1**: _Introduction_](book/introduction.html) | [Lectures 1--2 (_Introduction_)](slides/Oxford_1_2_Introduction.pdf) | [Lecture "0" (_Course Introduction_)](slides/Cambridge_0_Course_Introduction.pdf) |
 | [**Chapter 2**: _Foundations of Supervised Learning_](book/foundations.html) | [Lecture 3 (_Learning in High Dimension_)](slides/Oxford_3_Learning_in_High_Dimension.pdf) |  |
-| [**Chapter 3**: _Foundations of Equivariant Deep Learning_](book/algebraicpriors.html) | [Lecture 1 (_Introduction to Groups and Representations_)](slides/Cambridge_1_Introduction_to_Groups_and_Representations.pdf)
+| [**Chapter 3**: _Foundations of Equivariant Deep Learning_](book/algebraicpriors.html) | [Lecture 1 (_Introduction to Groups and Representations_)](slides/Cambridge_1_Introduction_to_Groups_and_Representations.pdf) |
 
 #### **Part II:** _Learning on Geometric Domains: The 5 Gs_
 
