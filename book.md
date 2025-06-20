@@ -31,7 +31,8 @@ Wherever relevant, we will also use this page to share lecture slides correspond
 
 #### **Part II:** _Learning on Geometric Domains: The 5 Gs_
 
-TBD.
+| _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
+| [**Chapter 5**: _Graphs_](book/graphs.html) | [Lectures 7--8 (_Graphs_)](slides/Oxford_7_8_Graphs.pdf) | [Lecture 4 (_Graph Neural Networks_)](slides/Cambridge_4_Graph_Neural_Networks.pdf) |
 
 #### **Part III:** _Geometric Deep Learning at the Bleeding Edge_
 
