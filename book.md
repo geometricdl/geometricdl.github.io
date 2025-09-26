@@ -15,6 +15,12 @@ We are expecting a cadence of roughly 2--3 weeks per individual chapter release.
 In addition, we have leveraged the material from the GDL Textbook to support Master's level courses at both [Oxford](https://www.cs.ox.ac.uk/teaching/courses/2023-2024/geodl/timetable.html) and [Cambridge](https://www.cl.cam.ac.uk/teaching/2324/L65/).
 Wherever relevant, we will also use this page to share lecture slides corresponding to individual chapters.
 
+The GDL Book does not strongly assume any particular prior mathematical preparation, yet its foundations rest on several key areas of mathematics -- Vector Calculus, Differential Geometry, Topology, Functional Analysis, Spectral Theory and Graph Theory.
+
+Should you wish a more thorough introduction to these mathematical concepts, we warmly recommend starting with:
+
+[**Mathematical Foundations of Geometric Deep Learning**](https://arxiv.org/abs/2508.02723) _(Borde and Bronstein, 2025)_
+
 [**Acknowledgement**](book/acknowledgement.html)
 
 [**Preface**](book/preface.html)
