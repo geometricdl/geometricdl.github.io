@@ -39,10 +39,12 @@ Should you wish a more thorough introduction to these mathematical concepts, we 
 | [**Chapter 3**: _Foundations of Equivariant Deep Learning_](book/algebraicpriors.html) |  | [Lecture 1 (_Introduction to Groups and Representations_)](slides/Cambridge_1_Introduction_to_Groups_and_Representations.pdf) |
 | [**Chapter 4**: _Foundations of Geometric Deep Learning_](book/geometricpriors.html) | [Lectures 4--5 (_Geometric Priors_)](slides/Oxford_4_5_Geometric_Priors.pdf) |  |
 
-#### **Part II:** _Learning on Geometric Domains: The 5 Gs_
+#### **Part II:** _Learning on Geometric Domains_
 
 | _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
 | [**Chapter 5**: _Graphs_](book/graphs.html) | [Lectures 7--8 (_Graphs_)](slides/Oxford_7_8_Graphs.pdf) | [Lecture 4 (_Graph Neural Networks_)](slides/Cambridge_4_Graph_Neural_Networks.pdf) |
+| [**Chapter 6**:  Grids_](book/grids.html) | [Lectures 9--10 (_Grids_)](slides/Oxford_9_10_Grids.pdf) |  |
+| [**Chapter 5**: _Group Convolution on Homogeneous Spaces_](book/groups.html) | [Lectures 11 (_Groups & Homogeneous Spaces_)](slides/Oxford_11_Groups_Homogeneous_spaces.pdf) | [Lecture 3 (_How To Build Geometric Neural Networks_)](slides/Cambridge_3_How_To_Build_Geometric_Neural_Networks.pdf) |
 
 #### **Part III:** _Geometric Deep Learning at the Bleeding Edge_
 
