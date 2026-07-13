@@ -45,6 +45,7 @@ Should you wish a more thorough introduction to these mathematical concepts, we 
 | [**Chapter 5**: _Graphs_](book/graphs.html) | [Lectures 7--8 (_Graphs_)](slides/Oxford_7_8_Graphs.pdf) | [Lecture 4 (_Graph Neural Networks_)](slides/Cambridge_4_Graph_Neural_Networks.pdf) |
 | [**Chapter 6**: _Grids_](book/grids.html) | [Lectures 9--10 (_Grids_)](slides/Oxford_9_10_Grids.pdf) |  |
 | [**Chapter 7**: _Group Convolution on Homogeneous Spaces_](book/groups.html) | [Lecture 11 (_Groups & Homogeneous Spaces_)](slides/Oxford_11_Groups_Homogeneous_spaces.pdf) | [Lecture 3 (_How To Build Geometric Neural Networks_)](slides/Cambridge_3_How_To_Build_Geometric_Neural_Networks.pdf) |
+| [**Chapter 8**: _Geometric Graphs_](book/geometricgraphs.html) | [Lecture 12 (_Geometric Graphs & Geometric GNNs_)](slides/Oxford_12_Geometric_Graphs_Geometric_GNNs.pdf)
 
 #### **Part III:** _Geometric Deep Learning at the Bleeding Edge_
 
