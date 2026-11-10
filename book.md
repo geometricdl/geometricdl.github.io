@@ -9,11 +9,10 @@ permalink: /book/
 "I have discovered such wonderful things that I was **amazed**...out of nothing I have created a strange new universe."---János Bolyai, in a letter to his father
 
 The Geometric Deep Learning textbook is a resource intended to help students and practitioners enter the field of geometric deep learning. 
-As we prepare for releasing our book with MIT Press, we will make individual draft chapters of the book available here. 
-We are expecting a cadence of roughly 2--3 weeks per individual chapter release. Once published here, the chapters will remain online, for free.
+As we prepare for releasing our book with MIT Press, we have made all individual draft chapters of the book available here. The chapters will remain online here, for free.
 
 In addition, we have leveraged the material from the GDL Textbook to support Master's level courses at both [Oxford](https://www.cs.ox.ac.uk/teaching/courses/2023-2024/geodl/timetable.html) and [Cambridge](https://www.cl.cam.ac.uk/teaching/2324/L65/).
-Wherever relevant, we will also use this page to share lecture slides corresponding to individual chapters.
+Wherever relevant, we also use this page to share lecture slides corresponding to individual chapters.
 
 ### Preparation
 
@@ -23,7 +22,9 @@ Should you wish a more thorough introduction to these mathematical concepts, we 
 
 [**Mathematical Foundations of Geometric Deep Learning**](https://arxiv.org/abs/2508.02723) _(Borde and Bronstein, 2025)_
 
-### Contents
+### The Book
+
+[**Contents**](book/contents.html)
 
 [**Acknowledgement**](book/acknowledgement.html)
 
@@ -47,9 +48,12 @@ Should you wish a more thorough introduction to these mathematical concepts, we 
 | [**Chapter 7**: _Group Convolution on Homogeneous Spaces_](book/groups.html) | [Lecture 11 (_Groups & Homogeneous Spaces_)](slides/Oxford_11_Groups_Homogeneous_spaces.pdf) | [Lecture 3 (_How To Build Geometric Neural Networks_)](slides/Cambridge_3_How_To_Build_Geometric_Neural_Networks.pdf) |
 | [**Chapter 8**: _Geometric Graphs_](book/geometricgraphs.html) | [Lecture 12 (_Geometric Graphs & Geometric GNNs_)](slides/Oxford_12_Geometric_Graphs_Geometric_GNNs.pdf) | |
 
-#### **Part III:** _Geometric Deep Learning at the Bleeding Edge_
+#### **Part III:** _Horizons of Geometric Deep Learning_
 
-TBD.
+| _Title_ | _Slides (Oxford)_ | _Slides (Cambridge)_ |
+| [**Chapter 9**: _Further Beyond_](book/future.html) | | [Lectures 9--10 (_Into the Realm Categorical_)](slides/Cambridge_9_10_Into_the_Realm_Categorical.pdf) |
+
+[**References**](book/references.html)
 
 This work is governed under a Creative Commons CC-BY-NC-ND license. Copyright in this Work has been licensed exclusively to [The MIT Press](https://mitpress.mit.edu), which will be releasing the final version to the public in 2026. All inquiries regarding rights should be addressed to The MIT Press, Rights and Permissions Department.
 
